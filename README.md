@@ -1,4 +1,10 @@
-# EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+<H3>NAME: V MYTHILI</H3>
+<H3>REG NO: 212223040123</H3>
+<H3>EX NO: 6</H3>
+
+
+
+# DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
